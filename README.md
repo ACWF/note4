@@ -1,8 +1,12 @@
 README
 ===========================
-《java编程思想》笔记
-看这本书的收获比较大，看的时候是在大二暑假，看了差不多两个月才看完，基本上一天只能看十多页，里面还穿插着一些设计模式，记得里面对选择对泛型的擦除等进行了激烈的讨论，还有类实例化的过程和多态讲得很明白，看起来是比较有意思的。感觉只能吸收一部分，不建议作为入门书籍。
-看书的大量笔记。  
+## 《Java编程思想》笔记
+* 看了两个月，书中有穿插着一些设计模式应用到实际的例子中。这本书不会一味地讲语法，更多的是会讲一些Java的设计思想，比如他不会一开始就教你怎么用泛型，而是先介绍为什么会出现泛型，没有泛型会有什么后果，Java设计者又为什么会选择泛型的擦除，书中对是否选择泛型的擦除等进行了激烈的讨论，经常会与C++做比较，看起来是比较有意思的。
+下面有目录，每个章节的包含的内容，可以直接点击超链接进去正文。
+## 正文
+* 第一部分: https://github.com/mowenlong/Thinking-in-Java/blob/master/src/test/Test1.java
+* 第二部分: https://github.com/mowenlong/Thinking-in-Java/blob/master/src/test/Test2.java
+* 第三部分: https://github.com/mowenlong/Thinking-in-Java/blob/master/src/test/Test3.java
 
 **里面的笔记记得特别的详细!!!**
 **建议clone下来，一个个点进去看**
